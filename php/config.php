@@ -11,7 +11,7 @@
 *   IF WEBSITE RUN IN A SUBFOLDER
 *   /!\ ONLY FOR DEVELOPPEMENT /!\
 */
-$ORIGINAL_URL = "/gnousdoteu-php/public";
+$ORIGINAL_URL = "";
 
 /*
 *   $DEFAULT_LANGUAGE
