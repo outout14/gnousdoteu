@@ -1,0 +1,53 @@
+{
+    "nav_item_home": "Home",
+    "nav_item_services": "Services",
+    "nav_item_about": "About",
+    "nav_item_donate": "Donate",
+
+    "home_title": "GnousEU",
+    "home_description": "French speaking community of free software enthusiasts since 2017.",
+    "home_btn_1": "Join us by discovering our services",
+
+    "services_title": "Our services",
+    "services_description_1": "GnousEU offers all services free and free of uses to all.",
+    "services_description_2": "These services are mostly open source and don't steal your valuable personal data.",
+    "services_text_lead": "What are your preferences",
+    "services_choice_all": "I like everything",
+    "services_choice_opensource": "I am a pure librist",
+    "services_btn_closedsource": "Closed source",
+    "services_btn_centralised": "Censtralised",
+    "services_btn_opensource": "OpenSource",
+    "services_btn_federated": "Federated",
+    "services_btn_unknown": "Unknown",
+    "services_btn_join": "Join !",
+    "services_discord_description": "Join the original discord server of GnousEU ! Active since 2017.",
+    "services_mastodon_description": "Create your account on the Twitter descentralised alternative, Mastodon.", 
+    "services_matrix_description": "Get your Matrix identifier, an descentralised and federated alternative to Slack and Discord.",
+    "services_git_description": "Publish your git projects on the public Gitea instance of GnousEU !",
+    "services_mail_description": "Get an @gnous.eu email adress for free now !",
+    "services_purpose_title": "Submit",
+    "services_purpose_description" : "You want to see a new service ? Submit it !",
+    "services_purpose_btn": "Share my idea !",
+    
+    "about_title": "About",
+    "about_description_1": "GnousEU is a community of free software enthusiasts who started in February 2017 on the Discord platform. Since then it has diversified on several platforms hosted by itself by supporting decentralized bodies. It keeps growing day by day and is open to new members. A system of census membership and interconnection of platforms is still under study to allow for better continuity within the community. Currently the vast majority of its members are on the Discord server.",
+    "about_description_2":  "This community was created by <code><a href=\"https://outout.xyz/\">Mael G. aka Outout</a></code> and he is administrated by itself with <code>Romain J.</code>, <code><a href=\"https://semapy.xyz\">Rick Krict</a></code> and <code>DoomQuakeKeen</code>.",
+    "about_description_3": "The community services are currently hosted in Canada on a Dell Poweredge R410 in a MicroSerum Inc. datacenter. The rental cost of this machine is 42 € / month!",
+
+    "donate_title": "Donate to GnousEU",
+    "donate_tipeee": "Participate in the development of the GnousEU community via a monetary donation via the Tipeee.",
+    "donate_hardware_title": "You want to give us hardware ?",
+    "donate_hardware_text": "You have network hardware or an old server and you don't know what to do with it ?",
+    "donate_hardware_mail": "Contact us at <code>dons@gnous.eu</code>",
+    "donate_services_title": "You're a service provider ?",
+    "donate_services_text": "Let's discuss your proposal in more detail! We are open to any partnership.",
+    "donate_services_mail": "Contact us at <code>mael@gnous.eu</code>",
+
+    "404_title": "Oups...",
+    "404_text_1": "Sorry but we can't display this page.",
+    "404_text_2": "If you think isn't normal please contact an administrator",
+    "404_btn": "Return to a safe place",
+    "notfound": "Page not found"
+
+
+}

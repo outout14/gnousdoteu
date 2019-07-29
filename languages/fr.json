@@ -1,0 +1,53 @@
+{
+    "nav_item_home": "Accueil",
+    "nav_item_services": "Services",
+    "nav_item_about": "A propos",
+    "nav_item_donate": "Donner",
+
+    "home_title": "GnousEU",
+    "home_description": "Communauté francophone de passionnés du libre depuis 2017.",
+    "home_btn_1": "Adhérez en découvrant nos services",
+
+    "services_title": "Nos Services",
+    "services_description_1": "GnousEU propose à tous des services gratuits et libre d'utilisations à tous.",
+    "services_description_2": "Ces services sont majoritairement opensource et ne volent pas vos précieuses données personnelles.",
+    "services_text_lead": "Quelles sont vos préférences",
+    "services_choice_all": "J'aime de tout",
+    "services_choice_opensource": "Je suis un pur libriste",
+    "services_btn_closedsource": "Closed source",
+    "services_btn_centralised": "Centralisé",
+    "services_btn_opensource": "OpenSource",
+    "services_btn_federated": "Fédéré",
+    "services_btn_unknown": "Inconnu",
+    "services_btn_join": "Rejoindre !",
+    "services_discord_description": "Rejoignez le serveur discord original de GnousEU ! Présent depuis 2017.",
+    "services_mastodon_description": "Créez votre compte sur l'alternative à Twitter descentralisée, Mastodon.", 
+    "services_matrix_description": "Obtenez votre identifiant Matrix, une alternative descentralisée à Slack et Discord.",
+    "services_git_description": "Publiez vos projets Git sur l'instance Gitea publique de GnousEU !",
+    "services_mail_description": "Obtenez votre compte email en @gnous.eu dès maintenant et gratuitement !",
+    "services_purpose_title": "Proposez",
+    "services_purpose_description" : "Vous souhaitez voir apparaître un nouveaux service ? Proposez le !",
+    "services_purpose_btn": "Partager mon idée !",
+    
+    "about_title": "A propos",
+    "about_description_1": "GnousEU est une communauté de passionnés du libre ayant débuté en Février 2017 sur la plateforme Discord. Depuis elle s'est diversifiée sur plusieurs plateformes hébergées par elle même en favoirsant les instances déscentralisées. Elle ne cesse de grandir de jour en jour et est ouverte à tous nouveaux membres. Un système de recensemment des membre et d'interconnexion des plateformes est toujours à l'étude pour permettre une meilleure continuité au sein de la communauté. Actuellement la grande majorité de ses membres se trouvent sur le serveur Discord.",
+    "about_description_2":  "Cette communauté à été créée par <code><a href=\"https://outout.xyz/\">Mael G. aka Outout</a></code> et est administrée par lui même mais aussi par <code>Romain J.</code>, <code><a href=\"https://semapy.xyz\">Rick Krict</a></code> et <code>DoomQuakeKeen</code>.",
+    "about_description_3": "Les services de la communauté sont actuellement hébergés au Canada sur un Dell Poweredge R410 dans un datacenter MicroSerum Inc.. Le coût de location de cette machine est de 42€TTC/mois !",
+
+    "donate_title": "Donnez à GnousEU",
+    "donate_tipeee": "Participez au développement de la communauté de GnousEU via un don monétaire via le site Tipeee.",
+    "donate_hardware_title": "Vous souhaitez nous donner du materiel ?",
+    "donate_hardware_text": "Vous disposez de materiel réseau ou serveur usagé et vous ne savez pas quoi en faire ?",
+    "donate_hardware_mail": "Contactez nous par mail à <code>dons@gnous.eu</code>",
+    "donate_services_title": "Vous êtes fournisseur de services ?",
+    "donate_services_text": "Discutons plus en détails de votre proposition ! Nous sommes ouvert à tout partenariat.",
+    "donate_services_mail": "Contactez nous par mail à <code>mael@gnous.eu</code>",
+
+    "404_title": "Oups...",
+    "404_text_1": "Désolé mais nous ne sommes pas en mesure d'afficher cette page.",
+    "404_text_2": "Vous pensez que ce n'est pas normal ? Essayez de rentrer en contact avec un administrateur.",
+    "404_btn": "Retourner en lieu sûr",
+    "notfound": "Page introuvable"
+
+
+}

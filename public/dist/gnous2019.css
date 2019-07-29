@@ -1,0 +1,24 @@
+body{
+	margin-top: 1vh;
+}
+.hero{
+	text-align: center;
+	margin: 3vh;
+}
+.gradient{
+background: #6a3093;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to top, #a044ff, #6a3093);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to top, #a044ff, #6a3093); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.container{
+	margin-top: 10vh;
+}
+.btn-libre{
+	width: 40vh;
+	margin: 0 auto;
+}
+
+.services{
+	padding: 10vh;
+}
