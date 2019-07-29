@@ -11,10 +11,10 @@
   <section class="navbar-section">
     <a href="{{$ORIGINAL_URL}}/donate" class="btn btn-link text-light">{{$lang.nav_item_donate}}</a>
     {{if $actual_lang eq 'fr'}}
-    <a href="{{$ORIGINAL_URL}}/?lang=en" class="btn btn-link text-light"><span class="flag flag-us"> </span> English</a>
+    <a href="?lang=en" class="btn btn-link text-light"><span class="flag flag-us"> </span> English</a>
     {{/if}}
     {{if $actual_lang eq 'en'}}
-    <a href="{{$ORIGINAL_URL}}/?lang=fr" class="btn btn-link text-light"><span class="flag flag-us"> </span> French</a>
+    <a href="?lang=fr" class="btn btn-link text-light"><span class="flag flag-us"> </span> French</a>
     {{/if}}
   </section>
 </header>
