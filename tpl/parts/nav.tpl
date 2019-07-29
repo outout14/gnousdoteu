@@ -14,7 +14,7 @@
     <a href="?lang=en" class="btn btn-link text-light"><span class="flag flag-us"> </span> English</a>
     {{/if}}
     {{if $actual_lang eq 'en'}}
-    <a href="?lang=fr" class="btn btn-link text-light"><span class="flag flag-us"> </span> French</a>
+    <a href="?lang=fr" class="btn btn-link text-light"><span class="flag flag-fr"> </span> French</a>
     {{/if}}
   </section>
 </header>
