@@ -5,7 +5,7 @@
 <div class="container text-center">
 	<h1>{{$lang.donate_title}}</h1>
 	<p>{{$lang.donate_tipeee}}</p>
-	<p class="text-error text-italic">Dons désactivés pour le moment... Contactez l'administrateur</p>
+	<a href="https://fr.tipeee.com/gnouseu"><img src="https://en.tipeee.com/img/pedago/tipeee-tip-btn.png" height="50vh" alt="tipeee logo"></a>
 </div>
 
 <div class="container text-center">
