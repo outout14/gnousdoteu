@@ -1,6 +1,8 @@
 # Gnous.eu
 
-![https://git.gnous.eu/gnouseu/gnousdoteu/raw/branch/master/public/img/gnous.png](https://git.gnous.eu/gnouseu/gnousdoteu/raw/branch/master/public/img/gnous.png) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) https://forthebadge.com/images/badges/gluten-free.svg
+![https://git.gnous.eu/gnouseu/gnousdoteu/raw/branch/master/public/img/gnous.png](https://git.gnous.eu/gnouseu/gnousdoteu/raw/branch/master/public/img/gnous.png)
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com) 
 
 Main website of [Gnous.eu](https://gnous.eu/?lang=en), the French speaking community of free software enthusiasts since 2017.
 
